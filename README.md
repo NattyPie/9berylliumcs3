@@ -7,7 +7,7 @@
 ## Activities 
 
 ### Computational Thinking Skills 
-[View my Computational Thinking Exercise] (q1/ctskillsBerylliumATOLE.md) 
+[View my Computational Thinking Exercise](q1/ctskillsBerylliumATOLE.md) 
 
 ### Chinese Zodiac 
-[View my Chinese Zodiac Exercise] (q1/zodiacBerylliumATOLE.md) 
+[View my Chinese Zodiac Exercise](q1/zodiacBerylliumATOLE.md) 
