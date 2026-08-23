@@ -8,3 +8,6 @@
 
 ### Computational Thinking Skills 
 [View my Computational Thinking Exercise] (q1/ctskillsBerylliumATOLE.md) 
+
+### Chinese Zodiac 
+[View my Computational Thinking Exercise] (q1/zodiacBerylliumATOLE.md) 
