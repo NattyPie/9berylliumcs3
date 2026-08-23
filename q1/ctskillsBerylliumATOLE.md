@@ -26,6 +26,7 @@ The school vending machince is inefficient and prone to errors, leading to incor
 ### Selected Sub-Problem 
 I select Sub-Problem 1, INCORRECT CHANGE 
 ### Pseudocode 
+  
   Input: item_price, money_inserted
 
   IF money_inserted < item_price THEN
