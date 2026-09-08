@@ -11,6 +11,7 @@
 |Ending | string| The type of ending achieved at the end of the story. |    
 ## Methods
 | Method | Description |
+|---|---|
 |Read| Read the book series. |
 |Research | Research unknown, unresolved and missing information or lore from the book series. |
 |Create| Create fanart or fanfiction to explore alternate endings and extra adventures. |
