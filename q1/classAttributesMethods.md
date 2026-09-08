@@ -14,4 +14,22 @@
 |Target Audience |string |Public |A way to spike interest in others is to find the target audience the book is made for so that it will be appreciated properly by the right people. 
 |Ending |string |Private |No book tells the ending of its story beforehand. Every readers should go through the several stages of reading a story to fully enjoy it.|
 
-## Updated UML Class Diagram ![Class Diagram](images/classDiagramSG5.png) ## Python Implementation [View Python Source](classImplementation.py) ## Test Run ![Test Run](images/classTestRun.png) ## Object Diagram ![Object Diagram](images/objectDiagram.png) ## Analysis ### Why did you make your chosen attribute private? ### Which method changes the state of your object? ### How did your two objects demonstrate that instances are independent? ### What is the difference between your class diagram and your object diagram? 
+## Updated UML Class Diagram 
+<img width="2000" height="1600" alt="1" src="https://github.com/user-attachments/assets/3196e771-372f-4891-a304-a29e7b63353a" />
+
+
+## Python Implementation [View Python Source](classImplementation.py) 
+
+## Test Run ![Test Run](images/classTestRun.png) 
+
+## Object Diagram ![Object Diagram](images/objectDiagram.png) 
+
+## Analysis 
+
+### Why did you make your chosen attribute private? 
+
+### Which method changes the state of your object? 
+
+### How did your two objects demonstrate that instances are independent?
+
+### What is the difference between your class diagram and your object diagram? 
