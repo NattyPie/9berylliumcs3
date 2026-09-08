@@ -3,6 +3,7 @@
 ## This class will showcase the different fantasy books that majority of children, teenagers and people of all ages read during their free time, a way for them to clear their mind and more.
 ## Properties
 | Property | Data Type | Description |
+|---|---|---| 
 |Author| string | Name of the author|
 |Main Character | string | Main character the book series revolves around throughout the whole story |
 |Time period | int | The time period of the total duration that passes from the beginning of the first book to the end of the final book.|
