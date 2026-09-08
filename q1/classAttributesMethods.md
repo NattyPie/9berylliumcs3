@@ -22,11 +22,13 @@
 
 ## Test Run ![Test Run](images/classTestRun.png) 
 
-## Object Diagram ![Object Diagram](images/objectDiagram.png) 
+## Object Diagram
+<img width="1024" height="768" alt="Colorful Playful Hand Draw Illustrative Creative Concept Map Graph" src="https://github.com/user-attachments/assets/0f83ed65-e556-4cc4-9479-e6632e665c06" />
 
 ## Analysis 
 
 ### Why did you make your chosen attribute private? 
+  Because they are irrelevant. 
 
 ### Which method changes the state of your object? 
 
