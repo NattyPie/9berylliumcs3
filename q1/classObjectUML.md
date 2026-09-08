@@ -16,8 +16,8 @@
 |Research | Research unknown, unresolved and missing information or lore from the book series. |
 |Create| Create fanart or fanfiction to explore alternate endings and extra adventures. |
 ## Class Diagram
-<img width="2000" height="1600" alt="image" src="https://github.com/user-attachments/assets/2561d297-00de-411f-b8e7-1f461c2c8703" />
-<<<<<<< HEAD
+<img width="2000" height="1600" alt="1" src="https://github.com/user-attachments/assets/56003312-571e-42d6-9e55-156cd48e6c1d" />
+
 
 ## Design Explanation
 
