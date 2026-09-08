@@ -18,7 +18,7 @@
 <img width="2000" height="1600" alt="1" src="https://github.com/user-attachments/assets/3196e771-372f-4891-a304-a29e7b63353a" />
 
 
-## Python Implementation [View Python Source](classImplementation.py) 
+## Python Implementation [View Python Source]q1/classImplementation.py) 
 
 ## Test Run ![Test Run](images/classTestRun.png) 
 
