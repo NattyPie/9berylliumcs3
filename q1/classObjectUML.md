@@ -10,13 +10,15 @@
 |Ending | string| The type of ending achieved at the end of the story. |    
 ## Methods
 | Method | Description |
-|Organize| Organizing the book series on your shelf depending on your taste. |
+|Read| Read the book series. |
 |Research | Research unknown, unresolved and missing information or lore from the book series. |
 |Create| Create fanart or fanfiction to explore alternate endings and extra adventures. |
 ## Class Diagram
 <img width="2000" height="1600" alt="image" src="https://github.com/user-attachments/assets/2561d297-00de-411f-b8e7-1f461c2c8703" />
 ## Design Explanation
 ### Why did you choose this class? 
-
-### Which property is the most important? Why?
+  - I chose this class because it gave me the immense feeling of nostalgia from memories I recollected from my childhood when my whole life revolved around fantasy books. Being the bookworm I was as a kid who was obsessed with fictional book series such as Harry Potter, Percy Jackson, Narnia, Divergent , and more. 
+### Which property is the most important? Why? 
+  - The most important property is the Author. Because without acknowledgement and credits to the creator of the books, it is immoral and disrespectful.
 ### Which method is the most useful? Why?
+  - Read is the most useful method because the purpose of a book series is to be read by tons and tons of people and for its wonders and beauty to be shared with others.
