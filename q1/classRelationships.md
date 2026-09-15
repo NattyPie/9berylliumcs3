@@ -3,8 +3,8 @@
 [Part I - Classes and Objects](classObjectUML.md)
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
-Class:
-Description:
+Class: Fantasy Books
+Description: 
 ## New Related Class
 Class:
 Description:
