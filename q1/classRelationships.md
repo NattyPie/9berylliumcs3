@@ -24,7 +24,8 @@ Multiplicity: 1:Many
 Explanation: Although the book mostly follows a more fantasy genre, it can contain more than 1 subgenres for it to be less simple. An example is Harry Potter, its main genre is fantasy, while its sub-genres are urban fantasy, coming of age, mystery and children's fiction.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](![Uploading 2.png…]()
+)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
