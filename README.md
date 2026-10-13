@@ -17,3 +17,9 @@
 
 ### OOPAct
 [View my OOP ACT exercise!](q1/classObjectUML.md)
+
+# Quarter 2
+## Activities 
+
+### Encapsulation
+[View my Encapsulation Activity](
