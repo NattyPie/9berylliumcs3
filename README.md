@@ -22,4 +22,4 @@
 ## Activities 
 
 ### Encapsulation
-[View my Encapsulation Activity](
+[View my Encapsulation Activity](q1/sg8_encapsulation.py)
