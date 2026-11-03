@@ -24,6 +24,8 @@
 ### Encapsulation
 [View my Encapsulation Activity](q1/sg8_encapsulation.py)
 
-### Encapsulation
+### Inheritance
 [View my Inheritance Activity](q1/sg9_inheritance.py)
 
+### Method Overriding
+[View my Method Overriding Activity](
