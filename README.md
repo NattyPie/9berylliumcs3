@@ -28,4 +28,4 @@
 [View my Inheritance Activity](q1/sg9_inheritance.py)
 
 ### Method Overriding
-[View my Method Overriding Activity](
+[View my Method Overriding Activity](sg10_method_overriding.py)
